@@ -1,6 +1,6 @@
 # Python
 
 python basics  programming
-*list
-*tuple
-*dictionary
+/n*list
+/n*tuple
+/n*dictionary
